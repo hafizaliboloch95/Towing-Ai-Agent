@@ -1,0 +1,7 @@
+{
+  "name": "TowPro AI Dispatch",
+  "description": "Professional 24/7 emergency roadside assistance dispatch system powered by Gemini.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
